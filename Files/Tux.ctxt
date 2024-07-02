@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Tux
+comment0.text=\n\ Write\ a\ description\ of\ class\ Tux\ here.\n\ \n\ @author\ (Trang\ Tran)\ \n\ @version\ (10/26/21)\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\n\ Act\ -\ do\ whatever\ the\ Tux\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n\ declare\ methods\ checkKeyPress,\ look\ Out,\ and\ setSpeed\n
+comment2.params=
+comment2.target=void\ setSpeed()
+comment3.params=
+comment3.target=void\ checkKeyPress()
+comment4.params=
+comment4.target=void\ lookOut()
+numComments=5
